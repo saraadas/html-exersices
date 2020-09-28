@@ -1,3 +1,5 @@
+# Challenge Me!
+In the theme of your choice create a Home Page using HTML containing:
 - 2 headings;
 - 1 paragraph;
 - Navigation with listed items (links);
